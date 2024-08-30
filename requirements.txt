@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+SQLAlchemy
+pyodbc # en caso de necesitar una base de datos según core/config OBDC
+pandas
+python-dotenv
